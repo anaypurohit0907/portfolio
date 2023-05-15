@@ -1,0 +1,31 @@
+body {
+    background-image:url(./images/wp8778419-dark-code-wallpapers.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+
+    
+  color:white;
+
+  }
+   .header{
+    display: flex;
+    
+   height: fit-content;
+   padding: 2%;
+    width: 100%;
+    align-items: flex-end;
+
+   
+   
+}
+
+.mid{
+    padding-top: 5%;
+    padding-left: 3%;
+    display: flex;
+min-height :500px;
+    flex-direction: column;
+  /* width: 100%;  */
+}
